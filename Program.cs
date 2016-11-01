@@ -17,7 +17,7 @@ namespace SplitEjemplo
             foreach(string dato in arregloTexto){
                 Console.Write(dato);
             }
-            
+            Console.ReadLine();
 
         }
 
